@@ -1,0 +1,8 @@
+{
+  "name": "goSolat",
+  "description": "Aplikasi waktu solat tepat dengan cuaca, pemberitahuan azan Makkah & Madinah, hadis harian, kompas kiblat & AR, kalendar Islam, serta panduan kedudukan ringkas masjid & surau ke aplikasi peta luar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
