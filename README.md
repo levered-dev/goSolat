@@ -7,3 +7,5 @@ Retrieved 2026-09-07, License - CC BY-SA 4.0
 -->
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Wd7FkrtBeAmDM2hXjHeV7H9BF5eYLmBdsL9j0dFQqg&s=10">](https://github.com/levered-dev/goSolat/releases/tag/goSolat)
+
+Sila ke link [Facebook](https://www.facebook.com/luqmanhkm14/) untuk feedback
